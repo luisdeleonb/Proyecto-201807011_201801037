@@ -1,0 +1,114 @@
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Form1.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Registro.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Salir.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Cliente.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Administrador.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Editorial.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Libros.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Reportes.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Perfil.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Prestar_Libros.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\LABORATORIO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.PrestarL.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Administrador.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Cliente.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Editorial.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Libros.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Form1.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Perfil.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Prestar_Libros.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.PrestarL.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Registro.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Reportes.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Salir.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Administrador.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Cliente.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Editorial.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Libros.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Form1.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Perfil.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Prestar_Libros.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.PrestarL.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Registro.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Reportes.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Salir.resources
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\david\Desktop\proyecto nickte\PROYECTO\PROYECTO\obj\Debug\PROYECTO.imagenes.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Administrador.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Cliente.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Editorial.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Libros.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Form1.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.imagenes.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Perfil.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Prestar_Libros.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.PrestarL.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Registro.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Reportes.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Salir.resources
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\wikia\Downloads\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe.config
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.exe
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.pdb
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\bin\Debug\PROYECTO.xml
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.AssemblyReference.cache
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Administrador.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Cliente.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Editorial.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_Libros.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Form1.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.imagenes.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Resources.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Perfil.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Prestar_Libros.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.PrestarL.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Registro.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Reportes.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.Salir.resources
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.GenerateResource.cache
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.vbproj.CoreCompileInputs.cache
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.exe
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.xml
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.pdb
+C:\Users\wikia\OneDrive\Escritorio\USAC\2021\SEGUNDO SEMESTRE\PROGRAMACION DE COMPUTADORAS 2\PROYECTO\PROYECTO\obj\Debug\PROYECTO.CRUD_GENERO.resources
